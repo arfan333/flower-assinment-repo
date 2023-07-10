@@ -31,7 +31,7 @@ padding-right: 97px;
 
     color: rgba(39, 39, 39, 0.60);
 
-font-size: 18px;
+font-size: 20px;
 
 font-weight: 400;
 line-height: 30px;
@@ -47,6 +47,7 @@ padding-top: 32px;
     margin-top: 32px;
     border-radius: 8px;
 background: #E55473;
+font-size: 20px;
 }
 
 .img {
@@ -72,7 +73,7 @@ padding-top: 178px;
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 
-font-size: 18px;
+font-size: 20px;
 
 font-weight: 400;
 line-height: 30px;
@@ -122,3 +123,64 @@ text-decoration-line: underline;
 padding: 32px 0 128px;
 
 }
+
+/* main er 2nd part css style */
+
+.deal {
+
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+
+span {
+    color:rgba(229, 84, 115, 1) ;
+}
+
+.page {
+
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 20px;
+
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+margin-bottom: 32px;
+
+}
+
+.up {
+    padding: 20px 43px;
+    border-radius: 8px;
+background: #E55473;
+font-size: 20px;
+}
+
+.penal{
+
+    width: 318px;
+height: 420px;
+
+
+
+}
+.hot {
+    text-align: center;
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+
+
